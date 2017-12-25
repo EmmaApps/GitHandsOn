@@ -11,5 +11,8 @@
 [link to markdown1] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [link to markdown] (https://guides.github.com/features/mastering-markdown/)
 
-![Image] (https://octodex.github.com/images/yaktocat.png)
+![Image] 
+(https://octodex.github.com/images/yaktocat.png)
+
+__This is bold__ and this _is italic_ so you know what is **bold** and what is *italic*
 
