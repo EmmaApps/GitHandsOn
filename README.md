@@ -8,3 +8,5 @@
 
 [link to quora] (https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-Git)
 [link to atlassian] (https://www.atlassian.com/git/tutorials/why-git)
+[link to markdown1] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
