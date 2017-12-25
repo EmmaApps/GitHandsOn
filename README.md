@@ -1,3 +1,3 @@
 # GitHandsOn
 
-** Why Git **
+**Why Git**
