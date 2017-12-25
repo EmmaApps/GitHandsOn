@@ -11,3 +11,5 @@
 [link to markdown1] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 [link to markdown] (https://guides.github.com/features/mastering-markdown/)
 
+![Image] (https://octodex.github.com/images/yaktocat.png)
+
